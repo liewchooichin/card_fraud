@@ -1,2 +1,1 @@
-
-Card fraud detection
+# Exercises that I did
