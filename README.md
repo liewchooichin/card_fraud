@@ -1,1 +1,1 @@
-# Exercises that I did
+# ML assignments
